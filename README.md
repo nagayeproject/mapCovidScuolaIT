@@ -14,6 +14,7 @@ Verrà aggiornata la mappa italiana visibile a questo link:
 NOTA: si potranno scaricare i marker sia da questo repository in formato csv e sia dal link su citato in formato kml, gpx, full data.
 
 # I dati
+Nella directory dati/ sono inseriti l'ultimo csv aggiornato e i csv archivio
 I marker della mappa e il csv su questo repository avrà i campi principali:
 
 *data* | *luogo* | *focolaio/contagio* | *titolo/descrizione* | *link alla fonte*
