@@ -15,4 +15,5 @@ NOTA: si potranno scaricare i marker sia da questo repository in formato csv e s
 
 # I dati
 I marker della mappa e il csv su questo repository avrà i campi principali:
+
 *data* | *luogo* | *focolaio/contagio* | *titolo/descrizione* | *link alla fonta*
