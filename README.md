@@ -18,3 +18,13 @@ Nella directory dati/ sono inseriti l'ultimo csv aggiornato e i csv archivio
 I marker della mappa e il csv su questo repository avrà i campi principali:
 
 *data* | *luogo* | *focolaio/contagio* | *titolo/descrizione* | *link alla fonte*
+
+# Ringraziamenti a:
+*Vittorio Nicoletta* e *Lorenzo Ruffino* per avermi segnalato il loro progetto di raccolta e tracciamento.
+Metodologia seguita:
+[http://bit.ly/metodo_scuole]
+Dataset:
+[http://bit.ly/covid_scuole]
+
+Thread twitter:
+[https://twitter.com/davide_tommasin/status/1354126224931639302]
