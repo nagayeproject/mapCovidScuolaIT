@@ -28,3 +28,6 @@ Dataset:
 
 Thread twitter:
 [https://twitter.com/davide_tommasin/status/1354126224931639302]
+
+# Segnalazioni
+Utilizzerò e propongo di usare su *Twitter* il tag #mapCovidScuolaIT per segnalare casi di contagi, focolai nella scuola.
