@@ -8,6 +8,11 @@ La ricerca è manuale e non automatizzata ergo sarà un progetto in costante svi
 ## Segnalazioni
 Utilizzerò e propongo di usare su *Twitter* il tag #mapCovidScuolaIT per segnalare casi di contagi, focolai nella scuola.
 
+# Bot Telegram #datiapertiscuolebot
+Bot di segnalazioni
+(In fase di test)
+Grazie al contributo di @piersoft [www.piersoft.it] 
+
 # Il progetto
 E' solo frutto personale (fine a se stesso) di riucire a raccogliere dati inerenti a Covid e Scuola in Italia e poter visualizzarli in una mappa per avere una visione d'insieme.
 
@@ -20,6 +25,7 @@ NOTA: si potranno scaricare i marker sia da questo repository in formato csv e s
 Nella directory dati/ sono inseriti l'ultimo csv aggiornato e i csv archivio
 I marker della mappa e il csv su questo repository avrà i campi principali:
 
+*(in aggiornamento)*
 *data* | *luogo* | *focolaio/contagio* | *titolo/descrizione* | *link alla fonte*
 
 # Ringraziamenti a:
