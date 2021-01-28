@@ -1,6 +1,10 @@
 # mapCovidScuolaIT
 Archivio (NON Ufficiale) di segnalazioni focolai, singoli casi positivi nelle scuole in Italia 
 
+## Perchè questo repository?
+- L' idea è nata firmando la petizione online [datiBeneComune.it] promossa dall' associazione [ondata.it] e dal presidente Andrea Borruso, ma mai soddisfatta dal Governo e dagli enti preposti a fornire gli #openData;
+- Riguardo la scuola ed il tracciamento Covid i dati aperti non sono mai stati pubblicati e condivisi;
+
 # Raccolta di segnalazioni
 Questo repository vuole essere una raccolta delle evidenze, delle segnalazioni di focolai o casi di positività nelle scuole in Italia.
 La ricerca è manuale e non automatizzata ergo sarà un progetto in costante sviluppo, probabilmente quotidiano, ma senza orari specifici di aggiornamento.
