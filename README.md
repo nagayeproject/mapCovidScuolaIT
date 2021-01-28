@@ -6,9 +6,10 @@ Questo repository vuole essere una raccolta delle evidenze, delle segnalazioni d
 La ricerca è manuale e non automatizzata ergo sarà un progetto in costante sviluppo, probabilmente quotidiano, ma senza orari specifici di aggiornamento.
 
 ## Segnalazioni
-Utilizzerò e propongo di usare su *Twitter* il tag #mapCovidScuolaIT per segnalare casi di contagi, focolai nella scuola.
+Utilizzerò e propongo di usare su:
 
-# Bot Telegram #datiapertiscuolebot
+- *Twitter* il tag #mapCovidScuolaIT per segnalare casi di contagi, focolai nella scuola.
+- *Telegram* @datiapertiscuolebot
 Bot di segnalazioni
 (In fase di test)
 Grazie al contributo di @piersoft [www.piersoft.it] 
