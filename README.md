@@ -2,7 +2,7 @@
 Archivio (NON Ufficiale) di segnalazioni focolai, singoli casi positivi nelle scuole in Italia 
 
 ## Perchè questo repository?
-- L' idea è nata firmando la petizione online [datiBeneComune.it] promossa dall' associazione [ondata.it] e dal presidente Andrea Borruso, ma mai soddisfatta dal Governo e dagli enti preposti a fornire gli #openData;
+- L' idea è nata firmando la petizione online [https://www.datiBeneComune.it] promossa dall' associazione [https://ondata.it] e dal presidente Andrea Borruso, ma mai soddisfatta dal Governo e dagli enti preposti a fornire gli #openData;
 - Riguardo la scuola ed il tracciamento Covid i dati aperti non sono mai stati pubblicati e condivisi;
 
 # Raccolta di segnalazioni
