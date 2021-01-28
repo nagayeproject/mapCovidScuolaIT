@@ -5,6 +5,9 @@ Archivio (NON Ufficiale) di segnalazioni focolai, singoli casi positivi nelle sc
 Questo repository vuole essere una raccolta delle evidenze, delle segnalazioni di focolai o casi di positività nelle scuole in Italia.
 La ricerca è manuale e non automatizzata ergo sarà un progetto in costante sviluppo, probabilmente quotidiano, ma senza orari specifici di aggiornamento.
 
+## Segnalazioni
+Utilizzerò e propongo di usare su *Twitter* il tag #mapCovidScuolaIT per segnalare casi di contagi, focolai nella scuola.
+
 # Il progetto
 E' solo frutto personale (fine a se stesso) di riucire a raccogliere dati inerenti a Covid e Scuola in Italia e poter visualizzarli in una mappa per avere una visione d'insieme.
 
@@ -28,6 +31,3 @@ Dataset:
 
 Thread twitter:
 [https://twitter.com/davide_tommasin/status/1354126224931639302]
-
-# Segnalazioni
-Utilizzerò e propongo di usare su *Twitter* il tag #mapCovidScuolaIT per segnalare casi di contagi, focolai nella scuola.
