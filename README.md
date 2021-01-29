@@ -2,8 +2,9 @@
 Archivio (NON Ufficiale) di segnalazioni focolai, singoli casi positivi nelle scuole in Italia 
 
 ## Perchè questo repository?
-- L' idea è nata firmando la petizione online [https://www.datiBeneComune.it] promossa dall' associazione [https://ondata.it] e dal presidente Andrea Borruso, ma mai soddisfatta dal Governo e dagli enti preposti a fornire gli #openData;
 - Riguardo la scuola ed il tracciamento Covid i dati aperti non sono mai stati pubblicati e condivisi;
+- L' idea è nata firmando la petizione online [https://www.datiBeneComune.it] promossa dall' associazione [https://ondata.it] e dal presidente Andrea Borruso, ma mai soddisfatta dal Governo e dagli enti preposti a fornire gli #openData;
+- Perchè ho conosciuto via Twitter Giorgia Lodi che continua ad oggi con la sua richiesta, la nostra richiesta di OpenData riguardo la Scuola;
 
 # Raccolta di segnalazioni
 Questo repository vuole essere una raccolta delle evidenze, delle segnalazioni di focolai o casi di positività nelle scuole in Italia.
@@ -37,14 +38,32 @@ NOTA: si potranno scaricare i marker sia da questo repository in formato csv e s
 Nella directory dati/ sono inseriti l'ultimo csv aggiornato e i csv archivio
 I marker della mappa e il csv su questo repository avrà i campi principali:
 
-*(in aggiornamento)*
-*data* | *luogo* | *focolaio/contagio* | *titolo/descrizione* | *link alla fonte*
+## Campi csv
+
+Questa che segue è la struttura dati copiata dal progetto di *Vittorio Nicoletta* e *Lorenzo Ruffiino* :
+
+-*Data* : Data comunicazione primo positivo se possibile risalire da fonte, altrimenti data fonte
+-*Regione/PA* : Regione/PA in cui si trova la scuola, NA se dato mancante
+-*Provincia* : Provincia in cui si trova la scuola, NA se dato mancante
+-*Città* : Città in cui si trova la scuola, NA se dato mancante
+-*Nome Scuola* : Nome scuola caso positivo, NA se dato mancante
+-*Tipo Scuola* : Tipo scuola tra Infanzia (nido e materna), Primaria (elementare), Media, Superiore (liceo, isis, itis,...), Università, Istituto comprensivo, NA se dato mancante
+-*Codice MG* : Codice meccanografico scuola da Ministero Istruzione. Potrebbero riferirsi all'Istituto Comprensivo nella sua totalità, NA se dato mancante
+-*Positivi* : Numero primi studenti/studentesse/docenti/altro positivi, "In attesa" se tampone ancora senza risultato
+-*Categoria* : La persona positiva e' Studente, Docente o Altro (personale ATA, ...), NA se dato mancante
+-*Isolamento* : Numero persone in isolamento o insieme di persone in isolamento (Classe, Scuola, Insegnanti,...), NA se dato mancante
+-*Chiusura scuola* : "Si" se intera scuola chiusa o didattica a distanza, "No" altrimenti
+-*Contatti positivi* : Numero di contatti legati al primo caso in seguito positivi, NA fino ad aggiornamento dato a seguito di nuove informazioni
+-*Primo Caso* : "Si" se e' il primo caso registrato nella scuola, "No" altrimenti
+-*Fonte* : Fonte della notizia
+-*Note* : Eventuali note descrittive
+-*Aggiornamento* : Fonte eventuali aggiornamenti
 
 # Ringraziamenti a:
 *Vittorio Nicoletta* e *Lorenzo Ruffino* per avermi segnalato il loro progetto di raccolta e tracciamento.
-Metodologia seguita:
+- Metodologia seguita:
 [http://bit.ly/metodo_scuole]
-Dataset:
+- Dataset:
 [http://bit.ly/covid_scuole]
 
 Thread twitter:
