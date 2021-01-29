@@ -59,6 +59,8 @@ Questa che segue è la struttura dati copiata dal progetto di *Vittorio Nicolett
 - *Note* : Eventuali note descrittive
 - *Aggiornamento* : Fonte eventuali aggiornamenti
 
+NOTA: nel csv verranno inserite anche le segnalazioni in cui non si esplicitano numeri di positivi, ma solo il coinvolgimento di "casi accertati" : tale soluzione è per mantenere traccia temporale e georeferenziata della diffusione del Covid.
+
 # Ringraziamenti a:
 *Vittorio Nicoletta* e *Lorenzo Ruffino* per avermi segnalato il loro progetto di raccolta e tracciamento.
 - Metodologia seguita:
