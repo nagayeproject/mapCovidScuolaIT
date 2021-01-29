@@ -18,6 +18,9 @@ Bot di segnalazioni
 (In fase di test)
 Grazie al contributo di @piersoft [www.piersoft.it] 
 
+# Aggiornamenti repository
+Per ora non c'è una cadenza temporale negli aggiornamenti di questo archivio. Il csv presente nella dir *dati/* è l'unico ed aggiornata alla data dell' ultimo record presente al suo interno.
+
 ###  #mapCovidScuolaIT su Twitter
 Questo è il link per vedere tutte le segnalazioni che ho condiviso su Twitter con il su citato hashtag:
 - [https://bit.ly/39u0Vnu]
