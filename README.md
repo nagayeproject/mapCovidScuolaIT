@@ -40,7 +40,7 @@ I marker della mappa e il csv su questo repository avrà i campi principali:
 
 ## Campi csv
 
-Questa che segue è la struttura dati copiata dal progetto di *Vittorio Nicoletta* e *Lorenzo Ruffiino* :
+Questa che segue è la struttura dati copiata dal progetto di *Vittorio Nicoletta* e *Lorenzo Ruffino* :
 
 - *Data* : Data comunicazione primo positivo se possibile risalire da fonte, altrimenti data fonte
 - *Regione/PA* : Regione/PA in cui si trova la scuola, NA se dato mancante
