@@ -18,12 +18,12 @@ Bot di segnalazioni
 (In fase di test)
 Grazie al contributo di @piersoft [www.piersoft.it] 
 
-# Aggiornamenti repository
-Per ora non c'è una cadenza temporale negli aggiornamenti di questo archivio. Il csv presente nella dir *dati/* è l'unico ed aggiornata alla data dell' ultimo record presente al suo interno.
-
 ###  #mapCovidScuolaIT su Twitter
 Questo è il link per vedere tutte le segnalazioni che ho condiviso su Twitter con il su citato hashtag:
 - [https://bit.ly/39u0Vnu]
+
+## Aggiornamenti repository
+Per ora non c'è una cadenza temporale negli aggiornamenti di questo archivio. Il csv presente nella dir *dati/* è l'unico ed aggiornata alla data dell' ultimo record presente al suo interno.
 
 # Il progetto
 E' solo frutto personale (fine a se stesso) di riucire a raccogliere dati inerenti a Covid e Scuola in Italia e poter visualizzarli in una mappa per avere una visione d'insieme.
