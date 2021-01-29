@@ -20,7 +20,7 @@ Grazie al contributo di @piersoft [www.piersoft.it]
 
 ###  #mapCovidScuolaIT su Twitter
 Questo è il link per vedere tutte le segnalazioni che ho condiviso su Twitter con il su citato hashtag:
-[https://bit.ly/39u0Vnu]
+- [https://bit.ly/39u0Vnu]
 
 # Il progetto
 E' solo frutto personale (fine a se stesso) di riucire a raccogliere dati inerenti a Covid e Scuola in Italia e poter visualizzarli in una mappa per avere una visione d'insieme.
